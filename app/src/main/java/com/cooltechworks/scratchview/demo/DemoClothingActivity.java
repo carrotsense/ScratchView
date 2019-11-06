@@ -37,7 +37,7 @@ public class DemoClothingActivity extends AppCompatActivity {
         setContentView(R.layout.activity_clothing);
 
         mScratchTitleView = (TextView) findViewById(R.id.scratch_title_text);
-        ScratchTextView scratchTextView = (ScratchTextView) findViewById(R.id.scratch_view);
+        final ScratchTextView scratchTextView = (ScratchTextView) findViewById(R.id.scratch_view);
 
         if(scratchTextView != null) {
             scratchTextView.setRevealListener(new ScratchTextView.IRevealListener() {
@@ -53,6 +53,13 @@ public class DemoClothingActivity extends AppCompatActivity {
                 }
             });
         }
+
+        findViewById(R.id.wish_list).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                scratchTextView.reset();
+            }
+        });
 
     }
 

@@ -130,6 +130,16 @@ public class ScratchTextView extends AppCompatTextView {
         init();
     }
 
+    public void reset() {
+        init();
+        setupCanvas(getWidth(), getHeight());
+        invalidate();
+
+        mRevealPercent = 0;
+        mRevealListener.onRevealPercentChangedListener(this, mRevealPercent);
+
+    }
+
     /**
      * Set the strokes width based on the parameter multiplier.
      * @param multiplier can be 1,2,3 and so on to set the stroke width of the paint.
@@ -142,8 +152,6 @@ public class ScratchTextView extends AppCompatTextView {
      * Initialises the paint drawing elements.
      */
     private void init() {
-
-
         mTouchPath = new Path();
 
         mErasePaint = new Paint();
@@ -166,13 +174,24 @@ public class ScratchTextView extends AppCompatTextView {
         Bitmap scratchBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.ic_scratch_pattern);
         mDrawable = new BitmapDrawable(getResources(), scratchBitmap);
         mDrawable.setTileModeXY(Shader.TileMode.REPEAT, Shader.TileMode.REPEAT);
-
-
     }
 
     @Override
     protected void onSizeChanged(int w, int h, int oldw, int oldh) {
         super.onSizeChanged(w, h, oldw, oldh);
+       setupCanvas(w, h);
+    }
+
+    @Override
+    protected void onDraw(Canvas canvas) {
+
+        super.onDraw(canvas);
+        canvas.drawBitmap(mScratchBitmap, 0, 0, mBitmapPaint);
+        canvas.drawPath(mErasePath, mErasePaint);
+
+    }
+
+    private void setupCanvas(int w, int h) {
         mScratchBitmap = Bitmap.createBitmap(w, h, Bitmap.Config.ARGB_8888);
         mCanvas = new Canvas(mScratchBitmap);
 
@@ -187,15 +206,6 @@ public class ScratchTextView extends AppCompatTextView {
 
         mCanvas.drawRect(rect, mGradientBgPaint);
         mDrawable.draw(mCanvas);
-    }
-
-    @Override
-    protected void onDraw(Canvas canvas) {
-
-        super.onDraw(canvas);
-        canvas.drawBitmap(mScratchBitmap, 0, 0, mBitmapPaint);
-        canvas.drawPath(mErasePath, mErasePaint);
-
     }
 
     private void touch_start(float x, float y) {
@@ -295,7 +305,7 @@ public class ScratchTextView extends AppCompatTextView {
 
     private void checkRevealed() {
 
-        if(! isRevealed() && mRevealListener != null) {
+        if(!isRevealed() && mRevealListener != null) {
 
             int[] bounds = getTextBounds();
             int left = bounds[0];
