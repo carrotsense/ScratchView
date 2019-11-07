@@ -1,0 +1,4 @@
+#Thu Nov 07 09:45:02 PST 2019
+base.0=/Users/kevinwang/Documents/ScratchView/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.cooltechworks.scratchview.demo"
+4    android:versionCode="2"
+5    android:versionName="2.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="14"
+8-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:5:5-33:19
+12        android:allowBackup="true"
+12-->[:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:icon="@mipmap/ic_launcher"
+14-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:6:9-43
+15        android:label="@string/app_name"
+15-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:7:9-41
+16        android:supportsRtl="true"
+16-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:8:9-35
+17        android:theme="@style/AppTheme" >
+17-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:9:9-40
+18        <activity
+18-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:10:9-15:20
+19            android:name="com.cooltechworks.scratchview.demo.DemoClothingActivity"
+19-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:11:13-49
+20            android:label="@string/clothing_title"
+20-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:12:13-51
+21            android:screenOrientation="portrait"
+21-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:13:13-49
+22            android:theme="@style/AppTheme" >
+22-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:14:13-44
+23        </activity>
+24        <activity
+24-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:17:9-22:20
+25            android:name="com.cooltechworks.scratchview.demo.CaptchaActivity"
+25-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:18:13-44
+26            android:label="@string/captcha_title"
+26-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:19:13-50
+27            android:screenOrientation="portrait"
+27-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:20:13-49
+28            android:theme="@style/AppTheme" >
+28-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:21:13-44
+29        </activity>
+30        <activity
+30-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:23:9-32:20
+31            android:name="com.cooltechworks.scratchview.demo.MainActivity"
+31-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:24:13-41
+32            android:label="@string/title_activity_main"
+32-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:25:13-56
+33            android:theme="@style/AppTheme" >
+33-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:26:13-44
+34            <intent-filter>
+34-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:27:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:28:17-69
+35-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:28:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:30:17-77
+37-->/Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

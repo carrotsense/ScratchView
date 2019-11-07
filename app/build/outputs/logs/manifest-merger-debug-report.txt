@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/af5934f9ed5294f304c20f4b1500852a/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/61f169bcc6dee4625f5d8831175b80c2/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/60399d9f1d2f8ff622e42340f0e6145f/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/fbfb4ebdbf33eaec3844f543d877ecc0/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0fe42844f4016e63e5a18d53ffdc465a/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/863bd8c55aa599ffcabef877c32c2790/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/a1ed4c4aa02d7fb472afd15b63e97a21/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/288dca3ea1c8c209a1ac7b070a10f146/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/420b6c1b5fbb483097c9c76e2f12841a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dd5894f02aa0ec963dda51a72f04a56b/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/20942291c5d9647ef1cd52f7db8a592e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/75dc372d4b82c138290b26e9370dee64/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/092d40ad87e6a641016706d9c2c34eef/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/d5a27a6386d35a108f3ac3555716da45/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/64411e92e81c708607641b8c3c21562a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/31147b2116f6dc12a698a1e55676eb5f/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/387e35e84d316b9a6d084e60daa9b358/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c13b08e0a85da4fcc9658e0bf19795c1/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c4a24ceda733764b8de8c66adc1f6e66/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b86381996edf51067d45f2f5ea6ba530/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b095285d0636041cf01ba0e9561abc37/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/aaf1cacc2f104fb68509f792f62ff76a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/5fe9a63b6071287e04ba1d2d18d08f39/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/3d136424e8831921bf25f78ad838ce4e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/14f78194090d7d7bd61403eb26b232a6/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/426c71ecaa2f0e742aca7bc94c7aff13/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b475fbd157489b00e48d841af0985371/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0b264f7a212519df75ecacc707729a78/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/89823c434e47074ec63a34d007092e8a/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/469126e1f7b38924edfafbfcfdada605/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/41f768643472fec7021b665fc7e49233/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dfef27d9219aa61b02a62607fe37699e/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:5:5-33:19
+MERGED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/af5934f9ed5294f304c20f4b1500852a/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/af5934f9ed5294f304c20f4b1500852a/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/aaf1cacc2f104fb68509f792f62ff76a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/aaf1cacc2f104fb68509f792f62ff76a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:6:9-43
+	android:theme
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:9:9-40
+activity#com.cooltechworks.scratchview.demo.DemoClothingActivity
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:10:9-15:20
+	android:screenOrientation
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:13:13-49
+	android:label
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:12:13-51
+	android:theme
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:14:13-44
+	android:name
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:11:13-49
+activity#com.cooltechworks.scratchview.demo.CaptchaActivity
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:screenOrientation
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:20:13-49
+	android:label
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:19:13-50
+	android:theme
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:21:13-44
+	android:name
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:18:13-44
+activity#com.cooltechworks.scratchview.demo.MainActivity
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:25:13-56
+	android:theme
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:26:13-44
+	android:name
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:24:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+MERGED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:views] /Users/kevinwang/Documents/ScratchView/views/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/af5934f9ed5294f304c20f4b1500852a/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/af5934f9ed5294f304c20f4b1500852a/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/61f169bcc6dee4625f5d8831175b80c2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/61f169bcc6dee4625f5d8831175b80c2/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/60399d9f1d2f8ff622e42340f0e6145f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/60399d9f1d2f8ff622e42340f0e6145f/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/fbfb4ebdbf33eaec3844f543d877ecc0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/fbfb4ebdbf33eaec3844f543d877ecc0/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0fe42844f4016e63e5a18d53ffdc465a/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0fe42844f4016e63e5a18d53ffdc465a/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/863bd8c55aa599ffcabef877c32c2790/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/863bd8c55aa599ffcabef877c32c2790/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/a1ed4c4aa02d7fb472afd15b63e97a21/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/a1ed4c4aa02d7fb472afd15b63e97a21/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/288dca3ea1c8c209a1ac7b070a10f146/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/288dca3ea1c8c209a1ac7b070a10f146/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/420b6c1b5fbb483097c9c76e2f12841a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/420b6c1b5fbb483097c9c76e2f12841a/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dd5894f02aa0ec963dda51a72f04a56b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dd5894f02aa0ec963dda51a72f04a56b/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/20942291c5d9647ef1cd52f7db8a592e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/20942291c5d9647ef1cd52f7db8a592e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/75dc372d4b82c138290b26e9370dee64/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/75dc372d4b82c138290b26e9370dee64/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/092d40ad87e6a641016706d9c2c34eef/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/092d40ad87e6a641016706d9c2c34eef/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/d5a27a6386d35a108f3ac3555716da45/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/d5a27a6386d35a108f3ac3555716da45/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/64411e92e81c708607641b8c3c21562a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/64411e92e81c708607641b8c3c21562a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/31147b2116f6dc12a698a1e55676eb5f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/31147b2116f6dc12a698a1e55676eb5f/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/387e35e84d316b9a6d084e60daa9b358/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/387e35e84d316b9a6d084e60daa9b358/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c13b08e0a85da4fcc9658e0bf19795c1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c13b08e0a85da4fcc9658e0bf19795c1/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c4a24ceda733764b8de8c66adc1f6e66/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/c4a24ceda733764b8de8c66adc1f6e66/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b86381996edf51067d45f2f5ea6ba530/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b86381996edf51067d45f2f5ea6ba530/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/e9e6bb05b9e42dcf54f0496be243d44a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b095285d0636041cf01ba0e9561abc37/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b095285d0636041cf01ba0e9561abc37/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/aaf1cacc2f104fb68509f792f62ff76a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/aaf1cacc2f104fb68509f792f62ff76a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/5fe9a63b6071287e04ba1d2d18d08f39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/5fe9a63b6071287e04ba1d2d18d08f39/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/3d136424e8831921bf25f78ad838ce4e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/3d136424e8831921bf25f78ad838ce4e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/14f78194090d7d7bd61403eb26b232a6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/14f78194090d7d7bd61403eb26b232a6/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/426c71ecaa2f0e742aca7bc94c7aff13/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/426c71ecaa2f0e742aca7bc94c7aff13/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b475fbd157489b00e48d841af0985371/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/b475fbd157489b00e48d841af0985371/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0b264f7a212519df75ecacc707729a78/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/0b264f7a212519df75ecacc707729a78/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/89823c434e47074ec63a34d007092e8a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/89823c434e47074ec63a34d007092e8a/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/469126e1f7b38924edfafbfcfdada605/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/469126e1f7b38924edfafbfcfdada605/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/41f768643472fec7021b665fc7e49233/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/41f768643472fec7021b665fc7e49233/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dfef27d9219aa61b02a62607fe37699e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kevinwang/.gradle/caches/transforms-2/files-2.1/dfef27d9219aa61b02a62607fe37699e/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwang/Documents/ScratchView/app/src/main/AndroidManifest.xml

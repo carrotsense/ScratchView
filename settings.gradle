@@ -1,1 +1,2 @@
 include ':app', ':views'
+rootProject.name='ScratchView'

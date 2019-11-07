@@ -132,11 +132,13 @@ public class ScratchTextView extends AppCompatTextView {
 
     public void reset() {
         init();
-        setupCanvas(getWidth(), getHeight());
+        if (getWidth() > 0 && getHeight() > 0) setupCanvas(getWidth(), getHeight());
         invalidate();
 
         mRevealPercent = 0;
-        mRevealListener.onRevealPercentChangedListener(this, mRevealPercent);
+        if (mRevealListener != null) {
+            mRevealListener.onRevealPercentChangedListener(this, mRevealPercent);
+        }
 
     }
 
@@ -179,16 +181,14 @@ public class ScratchTextView extends AppCompatTextView {
     @Override
     protected void onSizeChanged(int w, int h, int oldw, int oldh) {
         super.onSizeChanged(w, h, oldw, oldh);
-       setupCanvas(w, h);
+        setupCanvas(w, h);
     }
 
     @Override
     protected void onDraw(Canvas canvas) {
-
         super.onDraw(canvas);
         canvas.drawBitmap(mScratchBitmap, 0, 0, mBitmapPaint);
         canvas.drawPath(mErasePath, mErasePaint);
-
     }
 
     private void setupCanvas(int w, int h) {
